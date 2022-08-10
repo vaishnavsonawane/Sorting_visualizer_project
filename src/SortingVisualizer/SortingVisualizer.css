@@ -1,7 +1,15 @@
-.array-container {
-  position: absolute;
-  left: 100px;
+.parent{
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+height: 650px;
 
+}
+
+.array-container {
+  position: relative;
+  padding: 0px;
 }
 
 .array-bar {
