@@ -1,7 +1,7 @@
 {
 
   "name": "sorting_visual",
-  "homepage": "https://vaishnavsonawane.github.io/react-pages",
+  "homepage": "https://vaishnavsonawane.github.io/Sorting_visualizer_project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy":"npm run built",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
