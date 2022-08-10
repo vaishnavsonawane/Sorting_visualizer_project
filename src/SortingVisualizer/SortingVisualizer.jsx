@@ -6,7 +6,7 @@ import './SortingVisualizer.css';
 
 let ANIMATION_SPEED_MS =10;
 
-const NUMBER_OF_ARRAY_BARS = 100;
+const NUMBER_OF_ARRAY_BARS = 80;
 
 const PRIMARY_COLOR = 'turquoise';
 
